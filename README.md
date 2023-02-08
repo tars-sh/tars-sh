@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tars-sh. My GitHub account is https://github.com/wingjay unfortunately I lost my two-factor info and cannot log in anymore. So I create a new account for temporary usage.
+- 👋 Hi, I’m @tars-sh. 
 - 👀 I’m interested in breaking through myself.
 
 <!---
